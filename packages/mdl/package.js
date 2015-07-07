@@ -2,7 +2,7 @@ Package.describe({
   name   : 'nitya:mdl',
   version: '1.0.0',
   summary: 'Google Material Design Lite v 1.0 (http://www.getmdl.io) packaged for Meteor',
-  git    : '',
+  git    : 'https://github.com/nitya/mdl-demo.git',
   documentation: 'README.md'
 });
 

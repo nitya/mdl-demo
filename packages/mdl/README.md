@@ -1,5 +1,7 @@
 # Material Design Lite
 
+See a simple demo at [mdl-demo.meteor.com](http://mdl-demo.meteor.com/)
+
 Google's [Material Design Specification](http://www.google.com/design/spec/material-design/introduction.html) defines a visual language for application design that has seen growing adoption in both mobile and web domains through the Android Design Support Library, and the Polymer Paper-Elements implementation.
 
 The [Material Design Lite](http://www.getmdl.io/index.html) implementation released in July 2015 allows developers to add Material Design aesthetics to their websites and applications using vanilla JavaScript and CSS (without requiring dependency on any 3rd party app frameworks) and in a manner suitable for cross-platform development.
